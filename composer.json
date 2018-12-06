@@ -1,5 +1,5 @@
 {
-	"name": "AgyKoala/yii2-highcharts-widget",
+	"name": "agy-koala/yii2-highcharts-widget",
 	"description": "Highcharts widget for Yii 2 Framework.",
 	"keywords": ["yii2", "extension", "widget", "highcharts", "highstock", "highmaps"],
 	"homepage": "https://github.com/AgyKoala/yii2-highcharts",
